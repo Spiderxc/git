@@ -1,0 +1,5 @@
+.idea
+a.js
+node_modules/
+*.apk
+*.class
