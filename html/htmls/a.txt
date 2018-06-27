@@ -1,1 +1,9 @@
 createfiles
+ 命令行创建文件夹 / 创建文件 快捷方式
+ ①创建文件夹 md/mkdir (d->directory) directory(文件夹名称)
+ ②删除文件夹 rd/rmdir (只能删除空的文件夹) 完整命令：rd/s/q 盘符:\路径\目录名
+
+ 创建文件/删除文件
+ ①type nul>file(文件名称)  创建的文件为空文件
+ ②echo [file content]>file(文件名称) 创建带有内容的文件
+ ③del file(文件名称)  删除文件
