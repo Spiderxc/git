@@ -8,3 +8,5 @@ function add(sum) {
 
 
 add([1, 2, 3, 4]);
+
+console.log(123);
